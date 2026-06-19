@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "corepack": "^0.35.0",
+    "express": "^5.2.1",
     "npm": "^11.13.0"
-  },
-  "devDependencies": {}
+  }
 }
