@@ -1,0 +1,25 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Verifying my git setup o_o",
+  "homepage": "https://github.com/Himavarsha712/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/Himavarsha712/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himavarsha712/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "Himavarsha",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "corepack": "^0.35.0",
+    "npm": "^11.13.0"
+  },
+  "devDependencies": {}
+}
