@@ -8,6 +8,6 @@ Verifying my git setup o_o
 3. push / sync
 
 **commands :**
-git add -A
-git commit -m "Some message"
-git push
+*git add -A*
+*git commit -m "Some message"*
+*git push*
