@@ -1,4 +1,4 @@
-alert("Hello From JavaScript!");
+"https://autosuggest-backend.onrender.com/api/docs"
 
-console.log("Hello from #JS#");
+
 
